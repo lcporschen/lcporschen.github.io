@@ -106,7 +106,7 @@ listview = {
             sortBy: 'beds',
             filter: function () {
                 if (!query) return true;
-                var text = $(this).find('.mdl-card__title-text').text(),
+                var text = $(this).find('.mdl-card__supporting-text').text(),
                     qList = _.chain(query.split(' ')).uniq().compact().value(),
                     tList = _.uniq(text.split(' ')),
                     matches = _.intersectionWith(tList, qList, contains);
