@@ -33,8 +33,8 @@
     },
     {
         "id": "0002",
-        "name": "static-neck-side-flexion",
-        "title": "Static Neck Side Flexion",
+        "name": "statische nekzijflexie",
+        "title": "Statische nekzijflexie",
         "primer": "An exercise either build or warm up neck side flexors.",
         "type": "isometric",
         "primary": [
