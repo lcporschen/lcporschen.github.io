@@ -1,6 +1,6 @@
 # Everkinetic: ui
 
-Demo at [https://everkinetic.github.io/ui/](https://everkinetic.github.io/ui/)
+Demo at [https://lcporschen.github.io/ui/](https://lcporschen.github.io/ui/)
 
 ## Motivation
 
