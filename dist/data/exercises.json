@@ -1,8 +1,8 @@
 [
     {
         "id": "0001",
-        "name": "static-neck-flexion-extension",
-        "title": "Static Neck Flexion and Extension",
+        "name": "statische-nek-flexie-en-extensie",
+        "title": "Statische nek flexie en extensie",
         "primer": "An exercise to either build or warm-up front and back neck strength.",
         "type": "isometric",
         "primary": [
