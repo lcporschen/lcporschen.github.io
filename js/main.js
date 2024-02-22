@@ -77,7 +77,7 @@ listview = {
             }
         });
 
-        this.$el.isotope({ sortBy: 'equipment' });
+        this.$el.isotope({ sortBy: 'name' });
     },
 
     applyFilter: function () {
