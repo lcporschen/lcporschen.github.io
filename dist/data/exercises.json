@@ -103,7 +103,7 @@
             "triceps brachii"
         ],
         "equipment": [
-            "barbell",
+            "halter",
             "bench"
         ],
         "steps": [
@@ -192,8 +192,8 @@
     },
     {
         "id": "0007",
-        "name": "front-barbell-raises",
-        "title": "Front Barbell Raises",
+        "name": "front-halter-raises",
+        "title": "Front halter Raises",
         "primer": "An exercise for shoulder, chest and forearm strengthening.",
         "type": "isolation",
         "primary": [
@@ -204,13 +204,13 @@
             "forerm"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Grasp a barbell with an overhand grip(palms of hands face downwards) .",
+            "Grasp a halter with an overhand grip(palms of hands face downwards) .",
             "Stand up-right with your feet shoulder width apart, knees slightly bent and your abs drawn in.",
-            "With your arms straight, raise the barbell in a controlled motion to shoulder level.",
-            "Hold for a moment and then lower the barbell in at the same motion."
+            "With your arms straight, raise the halter in a controlled motion to shoulder level.",
+            "Hold for a moment and then lower the halter in at the same motion."
         ],
         "tips": [
             "Maintain a good upright posture when performing this exercise, do not sway or arch your back.",
@@ -326,8 +326,8 @@
     },
     {
         "id": "0011",
-        "name": "barbell-shoulder-press",
-        "title": "Seated Barbell Shoulder Press",
+        "name": "halter-shoulder-press",
+        "title": "Seated halter Shoulder Press",
         "primer": "This is an exercise for shoulder, chest and triceps strengthening.",
         "type": "isolation",
         "primary": [
@@ -338,10 +338,10 @@
             "pectoralis major"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Sitting on a bench with a barbell rack, grasp the barbell with a grip 3 to 4 inches wider than your shoulders.",
+            "Sitting on a bench with a halter rack, grasp the halter with a grip 3 to 4 inches wider than your shoulders.",
             "Lift the bar off the rack and lower it to just at the height of your shoulders.",
             "While maintaining  good posture, straighten your arms and raise the bar up above your head.",
             "Pause for a moment and then in a controlled movement lower the bar to the starting position."
@@ -420,8 +420,8 @@
     },
     {
         "id": "0014",
-        "name": "upright-barbell-rows",
-        "title": "Upright Barbell Rows",
+        "name": "upright-halter-rows",
+        "title": "Upright halter Rows",
         "primer": "This is an exercise for shoulder, biceps and upper back strengthening.",
         "type": "isolation",
         "primary": [
@@ -432,7 +432,7 @@
             "upper back"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Stand with your feet shoulder width apart, your abs drawn in and back straight.",
@@ -443,7 +443,7 @@
             "Repeat"
         ],
         "tips": [
-            "Do not arch your back when raising the barbell towards your chin."
+            "Do not arch your back when raising the halter towards your chin."
         ],
         "references": [],
         "svg": [
@@ -862,8 +862,8 @@
     },
     {
         "id": "0026",
-        "name": "reverse-grips-bent-over-barbell-rows",
-        "title": "Reverse Grips Bent Over Barbell Rows",
+        "name": "reverse-grips-bent-over-halter-rows",
+        "title": "Reverse Grips Bent Over halter Rows",
         "primer": "This is an exercise for middle back and biceps strengthening.",
         "type": "isolation",
         "primary": [
@@ -873,17 +873,17 @@
             "biceps brachii"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Bend over a barbell at slight angle with your knees bent and your back straight.",
-            "Grasp the bar with a reverse grip (palms facing up) and slowly pull the barbell to your abs, keeping your elbows close to your sides.",
+            "Bend over a halter at slight angle with your knees bent and your back straight.",
+            "Grasp the bar with a reverse grip (palms facing up) and slowly pull the halter to your abs, keeping your elbows close to your sides.",
             "Pause for a moment at the top.",
-            "Return the barbell to the starting position.",
+            "Return the halter to the starting position.",
             "Repeat."
         ],
         "tips": [
-            "Ensure that the weight of the barbell is evenly distributed through both hands."
+            "Ensure that the weight of the halter is evenly distributed through both hands."
         ],
         "references": [],
         "svg": [
@@ -932,8 +932,8 @@
     },
     {
         "id": "0028",
-        "name": "rear-deltoid-row-barbell",
-        "title": "Rear Deltoid Row Barbell",
+        "name": "rear-deltoid-row-halter",
+        "title": "Rear Deltoid Row halter",
         "primer": "This is an exercise for shoulder and biceps strengthening.",
         "type": "isolation",
         "primary": [
@@ -943,10 +943,10 @@
             "biceps brachii"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Place a barbell on the floor in front of you with the resided weights attached.",
+            "Place a halter on the floor in front of you with the resided weights attached.",
             "With your knees bent and back straight grasp the bar with a wide overhand grip (palms facing downwards).",
             "Keep your chest steady and your arms perpendicular to your chest.",
             "Pull the bar as far up to your chest as you can.",
@@ -1003,8 +1003,8 @@
     },
     {
         "id": "0030",
-        "name": "barbell-shrugs",
-        "title": "Barbell Shrugs",
+        "name": "halter-shrugs",
+        "title": "halter Shrugs",
         "primer": "This is an exercise for trapezius strengthening.",
         "type": "isolation",
         "primary": [
@@ -1012,11 +1012,11 @@
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Stand on the floor with your abs drawn in and your back straight.",
-            "Grasp a barbell with a grip a little wider than shoulder width at arms length.",
+            "Grasp a halter with a grip a little wider than shoulder width at arms length.",
             "Drop your shoulders as much as possible to start.",
             "Raise your shoulder as high as possible.",
             "Pause for a moment at the top and then return to starting position in a controlled motion.",
@@ -1337,7 +1337,7 @@
             "smith machine"
         ],
         "steps": [
-            "Place the barbell at waist height.",
+            "Place the halter at waist height.",
             "Stand with your feet shoulder width apart and your abs drawn in.",
             "Grasp the bar with an overhand grip and straightened arms.",
             "As you lift the bar allow the weight to pull your shoulders down, shrug your shoulders up and to the back.",
@@ -1357,7 +1357,7 @@
     {
         "id": "0042",
         "name": "bench-press",
-        "title": "Bench Press: Barbell",
+        "title": "Bench Press: halter",
         "primer": "This is an exercise for the chest.",
         "type": "compound",
         "primary": [
@@ -1369,12 +1369,12 @@
         ],
         "equipment": [
             "bench",
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Lie on a flat bench with your feet flat on the floor, keep your back flat on the bench.",
             "Grasp the bar a little wider than shoulder width apart.",
-            "Raise the barbell above your body and move it over the middle of your chest, this is your starting position.",
+            "Raise the halter above your body and move it over the middle of your chest, this is your starting position.",
             "Lower the bar down so it just touches your chest.",
             "Raise the bar till your arms are fully extended and your elbows are locked.",
             "Return to starting position."
@@ -1395,7 +1395,7 @@
     {
         "id": "0043",
         "name": "incline-bench-press",
-        "title": "Bench Press: Barbell (Incline)",
+        "title": "Bench Press: halter (Incline)",
         "primer": "This is an exercise for chest and triceps strengthening.",
         "type": "isolation",
         "primary": [
@@ -1406,12 +1406,12 @@
         ],
         "equipment": [
             "bench: incline",
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Lie flat on an incline bench set at a 45 degree angle, with your feet shoulder width apart.",
             "Grasp the bar a little wider than shoulder width apart.",
-            "Raise the barbell above your body and move it over the middle of your chest, this is your starting position.",
+            "Raise the halter above your body and move it over the middle of your chest, this is your starting position.",
             "Lower the bar down so it just touches your chest.",
             "Raise the bar straight up till your arms are fully extended and your elbows are locked.",
             "Return to starting position."
@@ -1478,12 +1478,12 @@
             "triceps brachii"
         ],
         "equipment": [
-            "barbell",
+            "halter",
             "flat bench"
         ],
         "steps": [
             "Lie flat on a bench with your head hanging slightly over the end and your feet flat on the floor.",
-            "Hold a barbell with a close grip (approximately 14”), keep your elbows in throughout the exercise.",
+            "Hold a halter with a close grip (approximately 14”), keep your elbows in throughout the exercise.",
             "Starting with your arms fully extended over your chest, slowly lower the bar in an arc over your head and towards the floor.",
             "Pull the bar back up to chest height in a slow controlled manner and return to starting position.",
             "Repeat."
@@ -1596,8 +1596,8 @@
     },
     {
         "id": "0049",
-        "name": "close-grip-barbell-bench-press",
-        "title": "Bench Press: Barbell (Close Grip)",
+        "name": "close-grip-halter-bench-press",
+        "title": "Bench Press: halter (Close Grip)",
         "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
         "type": "isolation",
         "primary": [
@@ -1608,12 +1608,12 @@
             "deltoid"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Lie on a flat bench with your feet flat on the floor, keep your back flat on the bench.",
             "Grasp the bar a close grip (approximately 14” apart).",
-            "Raise the barbell above your body and move it over the middle of your chest, this is your starting position.",
+            "Raise the halter above your body and move it over the middle of your chest, this is your starting position.",
             "Lower the bar down so it just touches your chest.",
             "Raise the bar till your arms are fully extended and your elbows are locked.",
             "Return to starting position."
@@ -1668,8 +1668,8 @@
     },
     {
         "id": "0051",
-        "name": "decline-barbell-bench-press",
-        "title": "Bench Press: Barbell (Decline)",
+        "name": "decline-halter-bench-press",
+        "title": "Bench Press: halter (Decline)",
         "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
         "type": "isolation",
         "primary": [
@@ -1681,7 +1681,7 @@
         ],
         "equipment": [
             "bench: decline",
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Lie on a decline bench with your head lower than your feet.",
@@ -1920,8 +1920,8 @@
     },
     {
         "id": "0058",
-        "name": "barbell-front-raise-pullover",
-        "title": "Barbell Front Raise and Pullover",
+        "name": "halter-front-raise-pullover",
+        "title": "halter Front Raise and Pullover",
         "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
         "type": "isolation",
         "primary": [
@@ -1932,14 +1932,14 @@
             "deltoid"
         ],
         "equipment": [
-            "barbell",
+            "halter",
             "flat bench"
         ],
         "steps": [
-            "Lie on a flat bench and grasp a barbell using a medium grip (about 15” apart).",
-            "Place the barbell on your upper thighs and lock your arms straight with a slight bend in your elbows.",
+            "Lie on a flat bench and grasp a halter using a medium grip (about 15” apart).",
+            "Place the halter on your upper thighs and lock your arms straight with a slight bend in your elbows.",
             "Draw your abs in and keeping your back flat on the bench, raise your arms up in an arc over and behind your head (as if you were performing a reverse pullover).",
-            "Slowly return the barbell to the starting position on your thighs."
+            "Slowly return the halter to the starting position on your thighs."
         ],
         "tips": [],
         "references": [],
@@ -2130,8 +2130,8 @@
     },
     {
         "id": "0064",
-        "name": "wide-grip-decline-barbell-pullover",
-        "title": "Wide Grip Decline Barbell Pullover",
+        "name": "wide-grip-decline-halter-pullover",
+        "title": "Wide Grip Decline halter Pullover",
         "primer": "This is an advanced strengthening exercise which targets the pectoral or chest muscles.",
         "type": "isolation",
         "primary": [
@@ -2140,12 +2140,12 @@
         "secondary": [],
         "equipment": [
             "bench: decline",
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Lie on a decline bench with your feet higher than your head and your feet firmly on the ground.",
-            "Grasp the barbell with an extra wide grip (your hands near the plates) and starting at you’re your upper thighs raise the barbell in an arc over your head towards the floor.",
-            "Slowly return the barbell to starting position on your thighs.",
+            "Grasp the halter with an extra wide grip (your hands near the plates) and starting at you’re your upper thighs raise the halter in an arc over your head towards the floor.",
+            "Slowly return the halter to starting position on your thighs.",
             "Repeat."
         ],
         "tips": [
@@ -2196,8 +2196,8 @@
     },
     {
         "id": "0067",
-        "name": "barbell-neck-press",
-        "title": "Barbell Neck Press",
+        "name": "halter-neck-press",
+        "title": "halter Neck Press",
         "primer": "This is an advanced exercise for chest strengthening.",
         "type": "isolation",
         "primary": [
@@ -2207,13 +2207,13 @@
             "biceps brachii"
         ],
         "equipment": [
-            "barbell",
+            "halter",
             "flat bench"
         ],
         "steps": [
             "Lie on a flat bench with you feet planted firmly on the floor.",
             "Grasp the bar a little wider than shoulder width apart.",
-            "Raise the barbell above your body and move it to the top of your chest, near your neck.",
+            "Raise the halter above your body and move it to the top of your chest, near your neck.",
             "This is your starting position.",
             "Lower the bar down so it just touches the top of your chest.",
             "Raise the bar till your arms are fully extended and your elbows are locked.",
@@ -2310,8 +2310,8 @@
     },
     {
         "id": "0070",
-        "name": "one-arm-barbell-floor-press",
-        "title": "One Arm Barbell Floor Press",
+        "name": "one-arm-halter-floor-press",
+        "title": "One Arm halter Floor Press",
         "primer": "This is an exercise for chest and triceps strengthening.",
         "type": "isolation",
         "primary": [
@@ -2321,7 +2321,7 @@
             "triceps brachii"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Lie flat on your back with your knees bent and your feet firmly on the floor.",
@@ -2693,7 +2693,7 @@
     {
         "id": "0082",
         "name": "wide-grip-bench-press",
-        "title": "Bench Press: Barbell (Wide Grip)",
+        "title": "Bench Press: halter (Wide Grip)",
         "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
         "type": "isolation",
         "primary": [
@@ -2705,7 +2705,7 @@
         ],
         "equipment": [
             "flat bench",
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Lie flat on a bench with your feet flat on the floor.",
@@ -2731,7 +2731,7 @@
     {
         "id": "0083",
         "name": "wide-grip-decline-bench-press",
-        "title": "Bench Press: Barbell (Decline, Wide Grip)",
+        "title": "Bench Press: halter (Decline, Wide Grip)",
         "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
         "type": "isolation",
         "primary": [
@@ -2742,7 +2742,7 @@
             "deltoid"
         ],
         "equipment": [
-            "barbell",
+            "halter",
             "bench: decline"
         ],
         "steps": [
@@ -3239,10 +3239,10 @@
             "dumbbell"
         ],
         "steps": [
-            "Grasp a Barbell or Dumbbell and sit on a Ball with your feet firmly placed on the floor.",
+            "Grasp a halter or Dumbbell and sit on a Ball with your feet firmly placed on the floor.",
             "Lower your body so your upper abs are the only part of your body supported on the Ball.",
-            "Bring the Barbell or Dumbbell to your chest with your arms extend.",
-            "In an arcing motion raise the Barbell or Dumbbell over and behind your head towards the floor.",
+            "Bring the halter or Dumbbell to your chest with your arms extend.",
+            "In an arcing motion raise the halter or Dumbbell over and behind your head towards the floor.",
             "Return to starting position.",
             "Repeat."
         ],
@@ -3259,8 +3259,8 @@
     },
     {
         "id": "0099",
-        "name": "barbell-dead-lifts",
-        "title": "Dead Lifts: Barbell",
+        "name": "halter-dead-lifts",
+        "title": "Dead Lifts: halter",
         "primer": "The techniques is identical to that of the Smith Machine dead lift except for the fact that this exercise provides less support.",
         "type": "isolation",
         "primary": [
@@ -3272,7 +3272,7 @@
             "soleus"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Stand with your feet shoulder width apart so that your feet are under the bar.",
@@ -3333,8 +3333,8 @@
     },
     {
         "id": "0101",
-        "name": "barbell-good-mornings",
-        "title": "Good Mornings: Barbell",
+        "name": "halter-good-mornings",
+        "title": "Good Mornings: halter",
         "primer": "This is one of the oldest exercises in bodybuilding but it still is one of the best for working the lower back.",
         "type": "isolation",
         "primary": [
@@ -3344,10 +3344,10 @@
             "ischiocrural muscles"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Place a barbell across your shoulders.",
+            "Place a halter across your shoulders.",
             "Keeping your head up and your back completely straight, bend at the waist until your back is parallel with the floor.",
             "Return to starting position.",
             "Repeat."
@@ -3379,7 +3379,7 @@
             "smith machine"
         ],
         "steps": [
-            "Place a barbell across your shoulders.",
+            "Place a halter across your shoulders.",
             "Keeping your head up and your back completely straight, bend at the waist until your back is parallel with the floor.",
             "Return to starting position.",
             "Repeat."
@@ -3658,8 +3658,8 @@
     },
     {
         "id": "0114",
-        "name": "barbell-lunges",
-        "title": "Lunges: Barbell",
+        "name": "halter-lunges",
+        "title": "Lunges: halter",
         "primer": "This is a classic exercise used for strengthening the hamstrings, quadriceps, calves and gluts.",
         "type": "isolation",
         "primary": [
@@ -3672,10 +3672,10 @@
             "soleus"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Start by placing a barbell across your upper back, using a grip slightly wider than your shoulders.",
+            "Start by placing a halter across your upper back, using a grip slightly wider than your shoulders.",
             "Stand with your feet about 8 inches apart, toes facing forward.",
             "Take a step forward (2-3 feet) keeping your abs drawn in and your upper body straight.",
             "Slowly lower one knee down as if kneeling while keeping your other knee bent at a 90 degree angle, do not let your knee touch the ground.",
@@ -3813,11 +3813,11 @@
             "glutaeus maximus"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Place a barbell in front of your feet on the ground.",
-            "Grasp the barbell with a grip a bit wider than shoulder width apart.",
+            "Place a halter in front of your feet on the ground.",
+            "Grasp the halter with a grip a bit wider than shoulder width apart.",
             "Bend your knees slightly, keeping your hips and back straight.",
             "Lift the bar straight up concentrating on using your hips as you stand.",
             "Stand with the bar resting against your thighs.",
@@ -3935,8 +3935,8 @@
     },
     {
         "id": "0122",
-        "name": "barbell-squat",
-        "title": "Barbell Squat",
+        "name": "halter-squat",
+        "title": "halter Squat",
         "primer": "",
         "type": "compound",
         "primary": [
@@ -3946,11 +3946,11 @@
             "ischiocrural muscles"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This is an exercise for leg strengthening, mainly the quadriceps.",
-            "Lifting a barbell off of a weight rack, position it on your shoulders.",
+            "Lifting a halter off of a weight rack, position it on your shoulders.",
             "Place your feet slightly wider than shoulder width apart with your knees and toes pointed slightly outward.",
             "Drawing your abs in descend slowly by bending at the knees and hips as if you are sitting down (squatting).",
             "Lower yourself as far as you can control without letting your body shift towards your toes (this will cause you to loose balance).",
@@ -4024,7 +4024,7 @@
         ],
         "steps": [
             "This exercise uses the Smith Machine to work the Quadriceps, Hamstrings, Calves and Glutes. A great overall exercise for the lower body. There are many variations on the squat, this is the original version using a Smith Machine for better flow of movement.",
-            "Set the height of the barbell to shoulder height.",
+            "Set the height of the halter to shoulder height.",
             "Place your feet slightly wider than shoulder width apart with your knees and toes pointed slightly outward.",
             "Drawing your abs in descend slowly by bending at the knees and hips as if you are sitting down (squatting).",
             "Lower yourself as far as you can control without letting your body shift over your toes (this will cause you to loose balance).",
@@ -4044,8 +4044,8 @@
     },
     {
         "id": "0125",
-        "name": "hack-squat-with-barbell",
-        "title": "Hack Squat: Barbell",
+        "name": "hack-squat-with-halter",
+        "title": "Hack Squat: halter",
         "primer": "This is another variation of the basic Squat that focuses primarily on the quadriceps or thigh muscles.",
         "type": "compound",
         "primary": [
@@ -4055,13 +4055,13 @@
             "ischiocrural muscles"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This is another variation of the basic Squat that focuses primarily on the quadriceps or thigh muscles.",
-            "Place the barbell on the floor just behind your legs and stand with your feet shoulder width apart with your toes pointing forward.",
-            "With your feet firmly placed on the floor, reach down and grasp the barbell from behind with an overhand grip.",
-            "Lift the barbell by extending your hips and knees, taking care not to lock your knees.",
+            "Place the halter on the floor just behind your legs and stand with your feet shoulder width apart with your toes pointing forward.",
+            "With your feet firmly placed on the floor, reach down and grasp the halter from behind with an overhand grip.",
+            "Lift the halter by extending your hips and knees, taking care not to lock your knees.",
             "Lower yourself (squat) down until your thighs are parallel to the floor.",
             "Slowly raise yourself up to starting position."
         ],
@@ -4150,8 +4150,8 @@
     },
     {
         "id": "0128",
-        "name": "rear-lunges-with-barbell",
-        "title": "Lunges: Barbell (Rear)",
+        "name": "rear-lunges-with-halter",
+        "title": "Lunges: halter (Rear)",
         "primer": "This is an advanced version of a lunge.",
         "type": "compound",
         "primary": [
@@ -4165,11 +4165,11 @@
             "ischiocrural muscles"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Place a barbell on a rack at chest height.",
-            "Lift the barbell of of the rack and onto your shoulders, gripping the bar slightly wider than shoulder width apart.",
+            "Place a halter on a rack at chest height.",
+            "Lift the halter of of the rack and onto your shoulders, gripping the bar slightly wider than shoulder width apart.",
             "Stand with your feet approximately 8 inches apart with your toes pointing forward.",
             "Slowly take a step backward with your right leg.",
             "Keeping your abs drawn in and your upper body straight, lower your body until your left knee is almost on the ground. You may choose to place a mat or towel under your knee.",
@@ -4242,7 +4242,7 @@
             "dumbbells"
         ],
         "steps": [
-            "This is a great overall exercise for the lower body that uses dumbbells instead of a barbell. Beginners may find this version easier to perform.",
+            "This is a great overall exercise for the lower body that uses dumbbells instead of a halter. Beginners may find this version easier to perform.",
             "Grasp a dumbbell in each hand.",
             "Stand with feet slightly wider than shoulder width apart with your knees and toes pointed slightly outward.",
             "Drawing your abs in descend slowly by bending at the knees and hips as if you are sitting down (squatting).",
@@ -4263,8 +4263,8 @@
     },
     {
         "id": "0131",
-        "name": "side-squats-with-barbell",
-        "title": "Side Squats: Barbell",
+        "name": "side-squats-with-halter",
+        "title": "Side Squats: halter",
         "primer": "This version of a squat works the hip adductors, helping build better core strength and coordination.",
         "type": "compound",
         "primary": [
@@ -4275,10 +4275,10 @@
             "ischiocrural muscles"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Place a barbell on your shoulders and grasp it with a wide grip.",
+            "Place a halter on your shoulders and grasp it with a wide grip.",
             "Stand with your feet wide apart, with the foot of the leg you will be leaning towards angled out.",
             "Bring your lower body to your foot by bending the hip and knee of your lead leg, and keeping your other leg fairly straight.",
             "Return to the starting position and switch legs."
@@ -4296,8 +4296,8 @@
     },
     {
         "id": "0132",
-        "name": "single-leg-squat-with-barbell",
-        "title": "Single Leg Squat with Barbell",
+        "name": "single-leg-squat-with-halter",
+        "title": "Single Leg Squat with halter",
         "primer": "This is an advanced exercise and modification of the basic squat.",
         "type": "compound",
         "primary": [
@@ -4309,11 +4309,11 @@
             "ischiocrural muscles"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This is an advanced exercise and modification of the basic squat. Mastery of the squat is recommended before attempting this exercise.",
-            "Place a barbell on your back, above your shoulders with a wide grip.",
+            "Place a halter on your back, above your shoulders with a wide grip.",
             "Cross the lower leg above the knee of your supporting leg (the leg you will squat with).",
             "Squat down as low as you are able.",
             "Slowly return to an upright position by straightening your hip and knee.",
@@ -4332,8 +4332,8 @@
     },
     {
         "id": "0133",
-        "name": "squat-to-bench-with-barbell",
-        "title": "Squats: Barbell (to Bench)",
+        "name": "squat-to-bench-with-halter",
+        "title": "Squats: halter (to Bench)",
         "primer": "This variation on a squat uses a bench to remind you how far down to squat.",
         "type": "compound",
         "primary": [
@@ -4346,13 +4346,13 @@
             "ischiocrural muscles"
         ],
         "equipment": [
-            "barbell",
+            "halter",
             "bench"
         ],
         "steps": [
             "This is s great overall exercise for the lower body. There are many variations on the squat, this one uses a bench to remind you how far down to squat.",
             "Place a bench behind you.",
-            "Lifting a barbell off of a weight rack, position it on your shoulders.",
+            "Lifting a halter off of a weight rack, position it on your shoulders.",
             "Place your feet slightly wider than shoulder width apart with your knees and toes pointed slightly outward.",
             "Drawing your abs in, descend slowly and squat down, bending at the knees and hips.",
             "Lower yourself as far as you can control without letting your body shift towards your toes (this will cause you to loose balance). Do not sit on the bench.",
@@ -4372,8 +4372,8 @@
     },
     {
         "id": "0134",
-        "name": "step-ups-with-barbell",
-        "title": "Step Ups: Barbell",
+        "name": "step-ups-with-halter",
+        "title": "Step Ups: halter",
         "primer": "This exercise builds coordination as well as muscle.",
         "type": "compound",
         "primary": [
@@ -4385,11 +4385,11 @@
             "soleus"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Place a bench, box or step in front of you.",
-            "Grasp a barbell with a wide grip and place it across your shoulders.",
+            "Grasp a halter with a wide grip and place it across your shoulders.",
             "With your left leg, step up on the bench, and follow by stepping up with your right leg.",
             "Step down with your left leg and then your right leg.",
             "Repeat starting with your right leg.",
@@ -4516,8 +4516,8 @@
     },
     {
         "id": "0138",
-        "name": "front-squat-with-barbell",
-        "title": "Front Squat with Barbell",
+        "name": "front-squat-with-halter",
+        "title": "Front Squat with halter",
         "primer": "The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders.",
         "type": "compound",
         "primary": [
@@ -4529,11 +4529,11 @@
             "soleus"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders. This exercise can be a good substitute for people with back and neck injuries.",
-            "Place the barbell on your upper chest, resting it across your front deltoids and holding it with your arms crossed securely.",
+            "Place the halter on your upper chest, resting it across your front deltoids and holding it with your arms crossed securely.",
             "Keep your head and back straight, abs drawn in and toes pointing slightly outward.",
             "Slowly “squat” down so your upper thighs are parallel to the floor.",
             "Slowly return to the starting position.",
@@ -4552,8 +4552,8 @@
     },
     {
         "id": "0139",
-        "name": "front-squat-to-bench-with-barbells",
-        "title": "Front Squat to Bench with Barbells",
+        "name": "front-squat-to-bench-with-halters",
+        "title": "Front Squat to Bench with halters",
         "primer": "The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders.",
         "type": "compound",
         "primary": [
@@ -4565,13 +4565,13 @@
             "soleus"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders. This exercise can be a good substitute for people with back and neck injuries. By using a bench you remind yourself how far to squat down",
             "Steps",
             "Place a bench behind you.",
-            "Place the barbell on your upper chest, resting it across your front deltoids and holding it with your arms crossed securely.",
+            "Place the halter on your upper chest, resting it across your front deltoids and holding it with your arms crossed securely.",
             "Keep your head and back straight, abs drawn in and your toes pointing slightly outward.",
             "Slowly “squat” down so your upper thighs are parallel to the floor.",
             "Slowly return to the starting position.",
@@ -4625,8 +4625,8 @@
     },
     {
         "id": "0141",
-        "name": "jefferson-squats-with-barbell",
-        "title": "Jefferson Squats: Barbell",
+        "name": "jefferson-squats-with-halter",
+        "title": "Jefferson Squats: halter",
         "primer": "This exercise builds and shapes the inner thighs.",
         "type": "compound",
         "primary": [
@@ -4634,12 +4634,12 @@
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This is a rarely used exercise which is without question one of the best exercises for building and shaping the inner thighs.",
-            "Place a barbell between your legs so it is perpendicular to your feet.",
-            "Grasp the barbell with one hand in front of you and one hand behind you with an overhand grip.",
+            "Place a halter between your legs so it is perpendicular to your feet.",
+            "Grasp the halter with one hand in front of you and one hand behind you with an overhand grip.",
             "Squatting down so your thighs are parallel to the floor slowly lift the weight up between your legs as you stand.",
             "Slowly return to a starting position just above the floor."
         ],
@@ -4794,8 +4794,8 @@
     },
     {
         "id": "0146",
-        "name": "narrow-stance-squat-with-barbell",
-        "title": "Narrow Stance Squat with Barbell",
+        "name": "narrow-stance-squat-with-halter",
+        "title": "Narrow Stance Squat with halter",
         "primer": "This version of the Squat targets and defines more of the externals leg muscles.",
         "type": "compound",
         "primary": [
@@ -4808,11 +4808,11 @@
             "ischiocrural muscles"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "A great overall exercise for the lower body. This version of the Squat targets and defines more of the externals leg muscles.",
-            "Lifting a barbell off of a weight rack, position it on your shoulders.",
+            "Lifting a halter off of a weight rack, position it on your shoulders.",
             "Place your feet about 6 inches apart with your knees and toes pointed slightly outward.",
             "Drawing your abs in, descend slowly by bending at the knees and hips as if you are sitting down (squatting).",
             "Lower yourself as far as you can control without letting your body shift towards your toes (this will cause you to loose balance).",
@@ -4832,8 +4832,8 @@
     },
     {
         "id": "0147",
-        "name": "one-leg-squat-with-barbell",
-        "title": "One Leg Squat with Barbell",
+        "name": "one-leg-squat-with-halter",
+        "title": "One Leg Squat with halter",
         "primer": "The One Leg Squat isolates the muscles of the leg for optimal exercise.",
         "type": "compound",
         "primary": [
@@ -4846,12 +4846,12 @@
             "glutaeus maximus"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "The One Leg Squat isolates the muscles of the leg for optimal exercise. This exercise is also used to build or rebuild strength after injury.",
             "Place a bench or box 12-18 inches tall behind you. The taller the box the greater the difficulty of the exercise.",
-            "Lifting a barbell off of a weight rack, position it on your shoulders.",
+            "Lifting a halter off of a weight rack, position it on your shoulders.",
             "Place one foot up on the bench, and your other foot firmly on the floor 2-3 feet in front you.",
             "Drawing your abs in descend slowly by bending your front knee and hip as if you are sitting down (squatting).",
             "Lower yourself as far as you can control without letting your body shift towards your toe (this will cause you to loose balance).",
@@ -4872,8 +4872,8 @@
     },
     {
         "id": "0148",
-        "name": "one-arm-snatch-with-barbell",
-        "title": "One Arm Snatch with Barbell",
+        "name": "one-arm-snatch-with-halter",
+        "title": "One Arm Snatch with halter",
         "primer": "This is an advanced exercise that works most of the muscles of the body.",
         "type": "compound",
         "primary": [
@@ -4889,14 +4889,14 @@
             "soleus"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This is an advanced exercise that works most of the muscles of the body.",
             "Exercises like this are used to develop functional strength for sports that require strong hands.",
             "Stand with your feet shoulder width apart, and a slight bend in your knees.",
             "Grasp the bar with an overhead grip.",
-            "Starting with the barbell held slightly above the knees (hang position), lift the weight up over your head (step 1) then back to shoulder height (step 2) and finally back to starting position between near your knees."
+            "Starting with the halter held slightly above the knees (hang position), lift the weight up over your head (step 1) then back to shoulder height (step 2) and finally back to starting position between near your knees."
         ],
         "tips": [
             "Note: Bend your knees as you lift and lower the weight to help control the movement."
@@ -4913,8 +4913,8 @@
     },
     {
         "id": "0150",
-        "name": "one-arm-side-deadlift-with-barbell",
-        "title": "Dead Lift: Barbell (One Arm Side)",
+        "name": "one-arm-side-deadlift-with-halter",
+        "title": "Dead Lift: halter (One Arm Side)",
         "primer": "This is an advanced exercise that works most of the muscles of the body.",
         "type": "compound",
         "primary": [
@@ -4928,11 +4928,11 @@
             "ischiocrural muscles"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This is an advanced exercise that works most of the muscles of the body. Exercises like this are used to develop functional strength for sports that require strong hands.",
-            "Stand besides a barbell placed on the floor.",
+            "Stand besides a halter placed on the floor.",
             "Grasp the bar with an overhand grip in the center.",
             "Crouching down as if your were performing a squat, bend down so your thighs are parallel with the floor.",
             "Extend your legs slowly as you straighten your body up, drawing in your abs as you rise.",
@@ -4951,8 +4951,8 @@
     },
     {
         "id": "0151",
-        "name": "overhead-squat-with-barbell",
-        "title": "Overhead Squat with Barbell",
+        "name": "overhead-squat-with-halter",
+        "title": "Overhead Squat with halter",
         "primer": "In this version of the squat you hold the bar overhead as you perform the exercise.",
         "type": "compound",
         "primary": [
@@ -4967,11 +4967,11 @@
             "erector spinae"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Stand with your feet a bit wider than shoulder width apart with your toes pointed slightly outward.",
-            "Grasp a barbell using a wide side snatch grip with your arms and elbows fully extended.",
+            "Grasp a halter using a wide side snatch grip with your arms and elbows fully extended.",
             "Keeping the bar overhead, bend your knees and lower your body until your thighs are parallel with the floor.",
             "Return to starting position.",
             "Notes: Keep your feet firmly planted on the floor throughout this exercise. Keep your abs drawn in your back tight and your chest up you perform this exercise."
@@ -5025,9 +5025,9 @@
     },
     {
         "id": "0154",
-        "name": "speed-squats-with-barbell",
-        "title": "Speed Squats: Barbell",
-        "primer": "This version of the squat uses an empty barbell and moves at a faster pace than the standard squat.",
+        "name": "speed-squats-with-halter",
+        "title": "Speed Squats: halter",
+        "primer": "This version of the squat uses an empty halter and moves at a faster pace than the standard squat.",
         "type": "compound",
         "primary": [
             "quadriceps"
@@ -5039,10 +5039,10 @@
             "ischiocrural muscles"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "This version of the squat uses an empty barbell and moves at a faster pace than the standard squat. This is a good exercise for building speed and conditioning used in running and jumping sports.",
+            "This version of the squat uses an empty halter and moves at a faster pace than the standard squat. This is a good exercise for building speed and conditioning used in running and jumping sports.",
             "Place your feet slightly wider than shoulder width apart with your knees and toes pointed slightly outward.",
             "Drawing your abs in, descend slowly by bending at the knees and hips as if you are sitting down (squatting).",
             "Lower yourself as far as you can control without letting your body shift towards your toes (this will cause you to loose balance).",
@@ -5193,8 +5193,8 @@
     },
     {
         "id": "0160",
-        "name": "wide-stance-squat-with-barbell",
-        "title": "Wide Stance Squat with Barbell",
+        "name": "wide-stance-squat-with-halter",
+        "title": "Wide Stance Squat with halter",
         "primer": "This version of the squat uses a wider stance to isolate the inner thigh.",
         "type": "compound",
         "primary": [
@@ -5206,10 +5206,10 @@
             "ischiocrural muscles"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Lifting a barbell off of a weight rack, position it on your shoulders.",
+            "Lifting a halter off of a weight rack, position it on your shoulders.",
             "Stand with your feet wider than shoulder width apart (about 30 inches apart) with your toes pointing out.",
             "Drawing your abs in descend slowly by bending at the knees and hips as if you are sitting down (squatting).",
             "Lower yourself as far as you can control without letting your body shift towards your toes (this will cause you to loose balance).",
@@ -5243,11 +5243,11 @@
             "soleus"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This variation of squat is similar to a Front Squat, it works to build the upper muscles of the quadriceps (thighs).",
-            "Lift a barbell off of a weight rack and place across your chest. Hold the barbell with your arms crossed.",
+            "Lift a halter off of a weight rack and place across your chest. Hold the halter with your arms crossed.",
             "Place your feet slightly wider than shoulder width apart with your knees and toes pointed slightly outward.",
             "Drawing your abs in, descend slowly by bending at the knees and hips as if you are sitting down (squatting).",
             "Lower yourself as far as you can control without letting your body shift towards your toes (this will cause you to loose balance).",
@@ -5443,11 +5443,11 @@
             "pectoralis major"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Lay with your back on a flat bench.",
-            "Grip a barbell with a close grip 8-12 inches apart.",
+            "Grip a halter with a close grip 8-12 inches apart.",
             "Keeping your arms close to your sides lower the bar so it touches your chest, approximately an inch below your nipples.",
             "Slowly return to starting position, concentrating on your triceps.",
             "At the top of the exercise bend your arms down towards your head.",
@@ -5495,8 +5495,8 @@
     },
     {
         "id": "0170",
-        "name": "decline-ez-bar-triceps-extension-with-barbell",
-        "title": "Triceps Extension: EZ Bar Barbell (Decline)",
+        "name": "decline-ez-bar-triceps-extension-with-halter",
+        "title": "Triceps Extension: EZ Bar halter (Decline)",
         "primer": "This exercise combines a decline bench and a curved bar to more efficiently work the triceps.",
         "type": "isolation",
         "primary": [
@@ -5504,10 +5504,10 @@
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Lay face up on a decline bench and grasp an EZ Bar (Curved Barbell).",
+            "Lay face up on a decline bench and grasp an EZ Bar (Curved halter).",
             "Extend your arms so they are perpendicular to your chest, and keeping your elbows in one place, lower the bar toward your head.",
             "Slowly return to the starting position."
         ],
@@ -5618,8 +5618,8 @@
     },
     {
         "id": "0174",
-        "name": "incline-triceps-extension-with-barbell",
-        "title": "Triceps Extension: Barbell (Incline)",
+        "name": "incline-triceps-extension-with-halter",
+        "title": "Triceps Extension: halter (Incline)",
         "primer": "This version of a triceps extension uses gravity to increase the resistance of the exercise.",
         "type": "isolation",
         "primary": [
@@ -5627,10 +5627,10 @@
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Grasp a barbell with a close grip (4-6 inches apart).",
+            "Grasp a halter with a close grip (4-6 inches apart).",
             "Lie on an incline bench and hold the bar over your head.",
             "Lower your arms in a slight arc so your forearms are touching your biceps.",
             "Slowly return back to the starting position with the bar over your head."
@@ -5659,7 +5659,7 @@
             "deltoid"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This exercise is named after the inventor, J.M. Blakley. This is an advanced exercise used by bodybuilders and power lifters to build explosive power in the triceps muscle (back of the arms).",
@@ -5776,19 +5776,19 @@
     },
     {
         "id": "0179",
-        "name": "lying-close-grip-triceps-extension-behind-the-head-with-barbell",
-        "title": "Triceps Extension: Barbell (Lying, Close Grip, Behind the Head)",
-        "primer": "You can use a barbell or EZ bar to further concentrate the benefit to your triceps.",
+        "name": "lying-close-grip-triceps-extension-behind-the-head-with-halter",
+        "title": "Triceps Extension: halter (Lying, Close Grip, Behind the Head)",
+        "primer": "You can use a halter or EZ bar to further concentrate the benefit to your triceps.",
         "type": "isolation",
         "primary": [
             "triceps brachii"
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "You can use a barbell or EZ (curl) bar to further concentrate the benefit to your triceps.",
+            "You can use a halter or EZ (curl) bar to further concentrate the benefit to your triceps.",
             "Lie flat on a bench on your back.",
             "Grasp the bar with a grip approximately 8 inches apart and lower the bar behind your head.",
             "Keeping the bar parallel with the floor, bend your arms down in an arc so the bar moves in a direction under your head.",
@@ -5807,8 +5807,8 @@
     },
     {
         "id": "0180",
-        "name": "lying-close-grip-triceps-press-to-chin-with-barbell",
-        "title": "Lying Close Grip Triceps Press to Chin with Barbell",
+        "name": "lying-close-grip-triceps-press-to-chin-with-halter",
+        "title": "Lying Close Grip Triceps Press to Chin with halter",
         "primer": "This exercise is a classic for building the triceps.",
         "type": "isolation",
         "primary": [
@@ -5816,7 +5816,7 @@
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Lie on a flat bench on your back, with your head at one end.",
@@ -5902,8 +5902,8 @@
     },
     {
         "id": "0183",
-        "name": "lying-triceps-press-with-barbell",
-        "title": "Lying Triceps Press with Barbell",
+        "name": "lying-triceps-press-with-halter",
+        "title": "Lying Triceps Press with halter",
         "primer": "This is another classic exercise for building the triceps.",
         "type": "isolation",
         "primary": [
@@ -5913,7 +5913,7 @@
             "pectoralis major"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Lie on a flat bench with your head at one end.",
@@ -5975,13 +5975,13 @@
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Lie down on a bench, on your back, with your head at one end.",
-            "Grasp a barbell with an underhand grip.",
+            "Grasp a halter with an underhand grip.",
             "Move your arms beyond your head, keeping them in a straight line.",
-            "Bending only your elbows, slowly lower and raise the barbell."
+            "Bending only your elbows, slowly lower and raise the halter."
         ],
         "tips": [],
         "references": [],
@@ -6124,8 +6124,8 @@
     },
     {
         "id": "0190",
-        "name": "reverse-triceps-bench-press-with-barbell",
-        "title": "Bench Press: Barbell (Reverse Triceps)",
+        "name": "reverse-triceps-bench-press-with-halter",
+        "title": "Bench Press: halter (Reverse Triceps)",
         "primer": "This exercise is a version of the Bench Press that specifically isolates the triceps.",
         "type": "compound",
         "primary": [
@@ -6135,11 +6135,11 @@
             "pectoralis major"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Lie on a flat bench with your head at one end and your feet placed firmly on the floor.",
-            "Grasp a barbell with palms facing your head about 16 inches apart.",
+            "Grasp a halter with palms facing your head about 16 inches apart.",
             "Move the bar over your chest (about 1 inch below your nipples).",
             "Extend your arms fully raising the bar fully and then lower the bar to the starting position."
         ],
@@ -6218,20 +6218,20 @@
     },
     {
         "id": "0193",
-        "name": "seated-overhead-triceps-extension-with-barbell",
-        "title": "Triceps Extension: Barbell (Seated, Overhead)",
-        "primer": "This exercise uses a barbell behind your neck to isolate the triceps effectively.",
+        "name": "seated-overhead-triceps-extension-with-halter",
+        "title": "Triceps Extension: halter (Seated, Overhead)",
+        "primer": "This exercise uses a halter behind your neck to isolate the triceps effectively.",
         "type": "isolation",
         "primary": [
             "triceps brachii"
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Sit on a short straight back chair with your feet firmly placed on the floor and your back straight.",
-            "Grasp an EZ or Curl bar, or barbell with a grip about 6 inches apart.",
+            "Grasp an EZ or Curl bar, or halter with a grip about 6 inches apart.",
             "Raise the bar to arms length above your head and then lower the bar in an arc towards the floor behind your head.",
             "Return to starting position."
         ],
@@ -6460,20 +6460,20 @@
     },
     {
         "id": "0201",
-        "name": "standing-overhead-triceps-extension-with-barbell",
-        "title": "Triceps Extension: Barbell (Standing, Overhead)",
-        "primer": "This is a double arm barbell version of a behind the neck triceps exercise.",
+        "name": "standing-overhead-triceps-extension-with-halter",
+        "title": "Triceps Extension: halter (Standing, Overhead)",
+        "primer": "This is a double arm halter version of a behind the neck triceps exercise.",
         "type": "isolation",
         "primary": [
             "triceps brachii"
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Stand with your feet shoulder width apart, your back straight and your abs drawn in.",
-            "Hold a barbell or EZ Curl bar about 6-8 inches apart with your palms facing up.",
+            "Hold a halter or EZ Curl bar about 6-8 inches apart with your palms facing up.",
             "Raise the bar over your head and slowly lower the dumbbell in an arc behind your head, towards your back.",
             "Slowly raise the bar back up to the starting position.",
             "Note: Keep your elbows close to your head during the exercise"
@@ -6778,8 +6778,8 @@
     },
     {
         "id": "0211",
-        "name": "biceps-curls-with-barbell",
-        "title": "Biceps Curl: Barbell",
+        "name": "biceps-curls-with-halter",
+        "title": "Biceps Curl: halter",
         "primer": "This is a basic exercise for the biceps.",
         "type": "isolation",
         "primary": [
@@ -6790,12 +6790,12 @@
             "forearm"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This is a basic exercise for the biceps (arms).",
             "Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.",
-            "Grasp a barbell with palms facing up, approximately shoulder width apart.",
+            "Grasp a halter with palms facing up, approximately shoulder width apart.",
             "Lower your arms fully to above your thighs and bending only your elbows, raise the bar to your upper chest.",
             "Pause for a moment and then return to the starting position.",
             "Note: Do not swing your hips or back during this exercise."
@@ -6815,7 +6815,7 @@
         "id": "0212",
         "name": "standing-biceps-curl-with-cable",
         "title": "Standing Biceps Curl with Cable",
-        "primer": "This version of the biceps curl uses a cable instead of a barbell to work the muscles of the arms.",
+        "primer": "This version of the biceps curl uses a cable instead of a halter to work the muscles of the arms.",
         "type": "isolation",
         "primary": [
             "biceps brachii"
@@ -6914,8 +6914,8 @@
     },
     {
         "id": "0215",
-        "name": "lying-incline-curl-with-barbell",
-        "title": "Lying Incline Curl with Barbell",
+        "name": "lying-incline-curl-with-halter",
+        "title": "Lying Incline Curl with halter",
         "primer": "",
         "type": "isolation",
         "primary": [
@@ -6923,12 +6923,12 @@
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This exercise uses an incline bench to change your body’s position as you perform Biceps Curls. The movement is very similar to a Preacher Curl.",
             "Adjust an incline bench to a 45 degree angle.",
-            "Grasp a barbell with a shoulder width grip and lean face down against the bench, with your feet resting on the floor for support.",
+            "Grasp a halter with a shoulder width grip and lean face down against the bench, with your feet resting on the floor for support.",
             "Allow your arms to hang down at your sides.",
             "Keeping your elbows straight, raise the bar up towards your head, contracting your biceps.",
             "In a controlled manner lower the weight and repeat.",
@@ -7010,8 +7010,8 @@
     },
     {
         "id": "0218",
-        "name": "close-grip-ez-bar-curl-with-barbell",
-        "title": "Close Grip EZ Bar Curl with Barbell",
+        "name": "close-grip-ez-bar-curl-with-halter",
+        "title": "Close Grip EZ Bar Curl with halter",
         "primer": "This exercise uses a cambered EZ or curl bar to isolate the biceps during a curl.",
         "type": "isolation",
         "primary": [
@@ -7021,7 +7021,7 @@
             "forearm"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.",
@@ -7044,9 +7044,9 @@
     },
     {
         "id": "0219",
-        "name": "close-grip-standing-biceps-curls-with-barbell",
-        "title": "Close Grip Standing Biceps Curls with Barbell",
-        "primer": "This exercise uses a standard barbell to isolate the biceps during a curl.",
+        "name": "close-grip-standing-biceps-curls-with-halter",
+        "title": "Close Grip Standing Biceps Curls with halter",
+        "primer": "This exercise uses a standard halter to isolate the biceps during a curl.",
         "type": "isolation",
         "primary": [
             "biceps brachii"
@@ -7055,11 +7055,11 @@
             "forearm"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.",
-            "Grasp a barbell with palms up, about 12 inches apart.",
+            "Grasp a halter with palms up, about 12 inches apart.",
             "Extend your arms fully against your thighs.",
             "Keeping your elbows straight, raise the bar towards your chest until your forearms touch your chest.",
             "Pause for moment and then return to the starting position.",
@@ -7144,8 +7144,8 @@
     },
     {
         "id": "0222",
-        "name": "drag-curl-with-barbell",
-        "title": "Drag Curl with Barbell",
+        "name": "drag-curl-with-halter",
+        "title": "Drag Curl with halter",
         "primer": "This exercise works the biceps and forearms.",
         "type": "isolation",
         "primary": [
@@ -7155,7 +7155,7 @@
             "forearm"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This exercise is credited to the late Vince Gironda, the “Iron Guru”. It not only blasts the biceps and works the forearms as well.",
@@ -7280,8 +7280,8 @@
     },
     {
         "id": "0226",
-        "name": "ez-bar-curl-with-barbell",
-        "title": "EZ Bar Curl with Barbell",
+        "name": "ez-bar-curl-with-halter",
+        "title": "EZ Bar Curl with halter",
         "primer": "This exercise uses an EZ or curl bar to better isolate and build the arms.",
         "type": "isolation",
         "primary": [
@@ -7291,11 +7291,11 @@
             "forearm"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Stand with your feet shoulder width apart and your knees slightly bent.",
-            "Grasp the barbell with palms up.",
+            "Grasp the halter with palms up.",
             "Lower the bar so it is against your thighs.",
             "Keeping your elbows still, raise the bar up to your chest so that your forearms touch your biceps.",
             "Note: Lean up against a wall or post to keep yourself from swaying."
@@ -7534,8 +7534,8 @@
     },
     {
         "id": "0234",
-        "name": "lying-high-bench-biceps-curl-with-barbell",
-        "title": "Lying High Bench Biceps Curl with Barbell",
+        "name": "lying-high-bench-biceps-curl-with-halter",
+        "title": "Lying High Bench Biceps Curl with halter",
         "primer": "",
         "type": "isolation",
         "primary": [
@@ -7543,12 +7543,12 @@
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "With this exercise your lay face down to isolate your biceps.",
             "Lay face down on a high bench with your head at one end and your toes pressed against the floor to support you.",
-            "Grasp a barbell with palms facing up, about 12 inches apart.",
+            "Grasp a halter with palms facing up, about 12 inches apart.",
             "Extending your arms to the floor, curl your arms back towards your head in a slight arc, so your biceps touch your forearm.",
             "Slowly return to the starting position."
         ],
@@ -7698,8 +7698,8 @@
     },
     {
         "id": "0239",
-        "name": "preacher-curl-with-barbell",
-        "title": "Preacher Curl: Barbell",
+        "name": "preacher-curl-with-halter",
+        "title": "Preacher Curl: halter",
         "primer": "A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms.",
         "type": "isolation",
         "primary": [
@@ -7709,7 +7709,7 @@
             "forearm"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "&nbsp;",
@@ -7796,8 +7796,8 @@
     },
     {
         "id": "0242",
-        "name": "seated-close-grip-concentration-curls-with-barbell",
-        "title": "Seated Close Grip Concentration Curls with Barbell",
+        "name": "seated-close-grip-concentration-curls-with-halter",
+        "title": "Seated Close Grip Concentration Curls with halter",
         "primer": "Concentration exercises limit your range of movement to increase the effectiveness of the movement.",
         "type": "isolation",
         "primary": [
@@ -7805,13 +7805,13 @@
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Concentration exercises limit your range of movement to increase the effectiveness of the movement. This version uses a barbell.",
+            "Concentration exercises limit your range of movement to increase the effectiveness of the movement. This version uses a halter.",
             "Sit on the end of a flat bench with your feet flat and your legs spread apart.",
             "Bend forward at your waist keeping your back straight.",
-            "Grasp a barbell in your hands with a close grip approximately 6 inches apart with your palms facing up.",
+            "Grasp a halter in your hands with a close grip approximately 6 inches apart with your palms facing up.",
             "With your elbow pressed against your inner thigh, curl the bar up towards your chest.",
             "Slowly lower the bar to the starting position near the floor.",
             "Note: Keep all of your body still except the arm you are exercising."
@@ -7894,8 +7894,8 @@
     },
     {
         "id": "0245",
-        "name": "spider-curl-with-barbell",
-        "title": "Spider Curl with Barbell",
+        "name": "spider-curl-with-halter",
+        "title": "Spider Curl with halter",
         "primer": "",
         "type": "isolation",
         "primary": [
@@ -7903,12 +7903,12 @@
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This exercise uses the straight side of a Preacher Curl bench to increase the range of motion of the exercise.",
             "Turn a Preacher Curl bench around so you are leaning against the angled side.",
-            "Grasp a barbell with palms up, approximately 6 inches apart.",
+            "Grasp a halter with palms up, approximately 6 inches apart.",
             "Leaning against the bench, lower the bar along the flat side of the bench fully extending your arms.",
             "Curl your arms up so your biceps are touching your forearms.",
             "Slowly lower the bar to the starting position.",
@@ -8066,8 +8066,8 @@
     },
     {
         "id": "0250",
-        "name": "wide-grip-standing-biceps-curl-with-barbell",
-        "title": "Wide Grip Standing Biceps Curl with Barbell",
+        "name": "wide-grip-standing-biceps-curl-with-halter",
+        "title": "Wide Grip Standing Biceps Curl with halter",
         "primer": "This is a wide grip version of a biceps curl.",
         "type": "isolation",
         "primary": [
@@ -8077,12 +8077,12 @@
             "forearm"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This is a wide grip version of a biceps curl. The wider grip targets the lateral or outer portion of the muscle.",
             "Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.",
-            "Grasp a barbell with palms up as wide as you comfortably can.",
+            "Grasp a halter with palms up as wide as you comfortably can.",
             "Extend your arms fully against your thighs.",
             "Keeping your elbows straight, raise the bar towards your chest until your forearms touch your chest.",
             "Pause for moment and then return to the starting position.",
@@ -8199,8 +8199,8 @@
     },
     {
         "id": "0254",
-        "name": "one-arm-biceps-curl-with-olympic-bar-or-barbell",
-        "title": "One Arm Bicep Curl with Olympic Bar or Barbell",
+        "name": "one-arm-biceps-curl-with-olympic-bar-or-halter",
+        "title": "One Arm Bicep Curl with Olympic Bar or halter",
         "primer": "This is an advanced exercise for building stability and the muscles of the arms.",
         "type": "isolation",
         "primary": [
@@ -8210,7 +8210,7 @@
             "forearm"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Stand with your feet shoulder width apart and your knees slightly bent.",
@@ -8218,7 +8218,7 @@
             "Keep your free hand at your side for support.",
             "Curl the bar up so your forearm touches your bicep.",
             "Slowly lower the bar and change arms.",
-            "Note: If an Olympic bar is too heavy use a lighter weight barbell."
+            "Note: If an Olympic bar is too heavy use a lighter weight halter."
         ],
         "tips": [],
         "references": [],
@@ -8367,8 +8367,8 @@
     },
     {
         "id": "0259",
-        "name": "biceps-curl-with-deadlift-with-barbell",
-        "title": "Dead Lift: Barbell (Biceps Curl)",
+        "name": "biceps-curl-with-deadlift-with-halter",
+        "title": "Dead Lift: halter (Biceps Curl)",
         "primer": "This exercise combines a bicep curl with a deadlift.",
         "type": "isolation",
         "primary": [
@@ -8381,11 +8381,11 @@
             "ischiocrural muscles"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This is an advanced exercise. This exercise combines a bicep curl with a deadlift.",
-            "Grasp an EZ Curl or barbell with palms facing up.",
+            "Grasp an EZ Curl or halter with palms facing up.",
             "Standing with your feet shoulder width apart and your knees slightly bent, draw your abs in.",
             "Extend your arms so the bar rests in front of your thighs.",
             "Bending at the waist, bring the bar down to just above the floor.",
@@ -8842,9 +8842,9 @@
     },
     {
         "id": "0272",
-        "name": "seated-calf-raise-with-barbell",
-        "title": "Seated Calf Raise with Barbell",
-        "primer": "This version of a calves raise uses a block and a barbell.",
+        "name": "seated-calf-raise-with-halter",
+        "title": "Seated Calf Raise with halter",
+        "primer": "This version of a calves raise uses a block and a halter.",
         "type": "isolation",
         "primary": [
             "gastrocnemius",
@@ -8852,11 +8852,11 @@
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Place a block on the floor about one foot in front of a bench.",
-            "Sit on the bench with a barbell across your upper thighs and the balls of your feet on the block.",
+            "Sit on the bench with a halter across your upper thighs and the balls of your feet on the block.",
             "Slowly raise and lower your toes up as high as possible without lifting your foot off the block."
         ],
         "tips": [],
@@ -9034,8 +9034,8 @@
     },
     {
         "id": "0278",
-        "name": "rocking-standing-calf-raise-with-barbell",
-        "title": "Rocking Standing Calf Raise with Barbell",
+        "name": "rocking-standing-calf-raise-with-halter",
+        "title": "Rocking Standing Calf Raise with halter",
         "primer": "This exercise uses a simple rocking motion to strengthen the calves.",
         "type": "isolation",
         "primary": [
@@ -9044,7 +9044,7 @@
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Stand with a bar across your shoulders.",
@@ -9131,8 +9131,8 @@
     },
     {
         "id": "0281",
-        "name": "standing-barbell-calf-raise",
-        "title": "Standing Barbell Calf Raise",
+        "name": "standing-halter-calf-raise",
+        "title": "Standing halter Calf Raise",
         "primer": "This is standing version of a Calf Raise.",
         "type": "isolation",
         "primary": [
@@ -9141,11 +9141,11 @@
         ],
         "secondary": [],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Place a block or two free weight plates on the floor.",
-            "Place a barbell across your back and step up so the balls of your feet are on the block.",
+            "Place a halter across your back and step up so the balls of your feet are on the block.",
             "Slowly lift your heels up and then lower them back to the floor getting as much of a stretch as possible.",
             "Return to starting position."
         ],
@@ -9253,8 +9253,8 @@
     },
     {
         "id": "0285",
-        "name": "ab-rollout-with-barbell",
-        "title": "Ab Rollout with Barbell",
+        "name": "ab-rollout-with-halter",
+        "title": "Ab Rollout with halter",
         "primer": "This exercise works the abs and lower back and is the proper version of an “ab roller”.",
         "type": "compound",
         "primary": [
@@ -9265,11 +9265,11 @@
             "deltoid"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
-            "Place a barbell on the floor at your feet.",
-            "Bending at the waist, grip the barbell with a shoulder with overhand grip.",
+            "Place a halter on the floor at your feet.",
+            "Bending at the waist, grip the halter with a shoulder with overhand grip.",
             "With a slow controlled motion, roll the bar out so that your back is straight.",
             "Keep your arms straight throughout the exercise.",
             "Roll back up raising your hips and butt as you return to the starting position.",
@@ -9288,8 +9288,8 @@
     },
     {
         "id": "0286",
-        "name": "ab-rollout-on-knees-with-barbell",
-        "title": "Ab Rollout on Knees with Barbell",
+        "name": "ab-rollout-on-knees-with-halter",
+        "title": "Ab Rollout on Knees with halter",
         "primer": "This exercise works the abs and lower back and is the proper version of an “ab roller”.",
         "type": "compound",
         "primary": [
@@ -9300,12 +9300,12 @@
             "deltoid"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "This exercise works the abs and lower back and is the proper version of an “ab roller”. This version is performed on your knees.",
-            "Place a barbell on the floor in front of you.",
-            "Start by kneeling in front of the bar, grip the barbell with a shoulder with overhand grip.",
+            "Place a halter on the floor in front of you.",
+            "Start by kneeling in front of the bar, grip the halter with a shoulder with overhand grip.",
             "With a slow controlled motion, roll the bar out so that your back is straight, bend your knees and keep your feet off the floor.",
             "Keep your arms straight throughout the exercise.",
             "Roll back up bring the bar under your shoulders and return to the starting position."
@@ -9639,8 +9639,8 @@
     },
     {
         "id": "0298",
-        "name": "bent-over-row-with-barbell",
-        "title": "Bent Over Row with Barbell",
+        "name": "bent-over-row-with-halter",
+        "title": "Bent Over Row with halter",
         "primer": "This exercise focuses on the middle back.",
         "type": "compound",
         "primary": [
@@ -9650,7 +9650,7 @@
             "biceps brachii"
         ],
         "equipment": [
-            "barbell"
+            "halter"
         ],
         "steps": [
             "Place your feet shoulder width apart.",
